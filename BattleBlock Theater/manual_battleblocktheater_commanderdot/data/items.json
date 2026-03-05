@@ -1,0 +1,976 @@
+[
+  {
+    "count": 1,
+    "name": "1-1 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1-2 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1-3 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1-4 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1-5 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1-6 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1-7 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1-8 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1-9 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 1 Finale Key",
+    "category": [
+      "Level Key",
+      "Finale Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 1 Encore 1 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 1 Encore 2 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 1 Encore 3 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2-1 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2-2 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2-3 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2-4 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2-5 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2-6 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2-7 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2-8 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2-9 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 2 Finale Key",
+    "category": [
+      "Level Key",
+      "Finale Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 2 Encore 1 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 2 Encore 2 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 2 Encore 3 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3-1 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3-2 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3-3 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3-4 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3-5 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3-6 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3-7 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3-8 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3-9 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 3 Finale Key",
+    "category": [
+      "Level Key",
+      "Finale Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 3 Encore 1 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 3 Encore 2 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 3 Encore 3 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4-1 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4-2 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4-3 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4-4 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4-5 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4-6 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4-7 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4-8 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4-9 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 4 Finale Key",
+    "category": [
+      "Level Key",
+      "Finale Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 4 Encore 1 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 4 Encore 2 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 4 Encore 3 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5-1 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5-2 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5-3 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5-4 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5-5 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5-6 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5-7 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5-8 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5-9 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 5 Finale Key",
+    "category": [
+      "Level Key",
+      "Finale Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 5 Encore 1 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 5 Encore 2 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 5 Encore 3 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "6-1 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "6-2 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "6-3 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "6-4 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "6-5 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "6-6 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "6-7 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "6-8 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "6-9 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 6 Finale Key",
+    "category": [
+      "Level Key",
+      "Finale Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 6 Encore 1 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 6 Encore 2 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 6 Encore 3 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "7-1 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "7-2 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "7-3 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "7-4 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "7-5 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "7-6 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "7-7 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "7-8 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "7-9 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 7 Finale Key",
+    "category": [
+      "Level Key",
+      "Finale Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 7 Encore 1 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 7 Encore 2 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 7 Encore 3 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "8-1 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "8-2 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "8-3 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "8-4 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "8-5 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "8-6 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "8-7 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "8-8 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "8-9 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 8 Finale Key",
+    "category": [
+      "Level Key",
+      "Finale Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 8 Encore 1 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 8 Encore 2 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 8 Encore 3 Key",
+    "category": [
+      "Level Key"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Acid Bubble",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Boomerang",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dart Gun",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Disc",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dodgeball",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fan",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fireball",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Forceball",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Grenade",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ice Cannon",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Paper Airplane",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Vacuum",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Frog",
+    "category": [
+      "Weapons"
+    ],
+    "useful": true
+  },
+  {
+    "count": "120",
+    "name": "Yarn",
+    "category": ["Filler"],
+    "filler": true
+  },
+  {
+    "count": "638",
+    "name": "Gem",
+    "category": ["Filler"],
+    "filler": true
+  },
+  {
+    "count": "64",
+    "name": "Secret Gem",
+    "category": ["Filler","Secret Levels"],
+    "filler": true
+  },
+  {
+    "count": "112",
+    "name": "Rescued Prisoner",
+    "category": ["Filler","Time Stamp"],
+    "filler": true
+  },
+  {
+    "count": "8",
+    "name": "Golden Hat",
+    "category": ["Filler","Time Stamp", "Secret Levels"],
+    "filler": true
+  }
+]

@@ -1,0 +1,12 @@
+{
+    "Secret Levels": {
+    "hidden": true,
+    "yaml_option": [
+      "Secret_Levels_Enabled"
+    ]},
+    "Time Stamp": {
+    "hidden": true,
+    "yaml_option": [
+      "Time_Stamp_Checks_Enabled"
+    ]}
+}
